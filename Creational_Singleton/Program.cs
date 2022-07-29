@@ -1,4 +1,4 @@
-﻿// 单件模式
+﻿// 1.单件模式
 namespace Creational_Singleton
 {
     internal class Program
