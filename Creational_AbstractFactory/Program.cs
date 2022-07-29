@@ -58,8 +58,8 @@ namespace Creational_AbstractFactory2
             g.Play();
 
             GameManager g2 = new GameManager(new OldFacilityFactory());
-            g.BuildGameFacilities();
-            g.Play();
+            g2.BuildGameFacilities();
+            g2.Play();
         }
     }
 
@@ -202,7 +202,7 @@ namespace Creational_AbstractFactory2
     {
         public override void Log()
         {
-            Console.WriteLine("古老版");
+            Console.WriteLine("古老版建筑");
         }
     }
 
@@ -226,22 +226,22 @@ namespace Creational_AbstractFactory2
     {
         public override Road CreateRoad()
         {
-            return new ModernRoad();
+            return new OldRoad();
         }
 
         public override Building CreateBuilding()
         {
-            return new ModernBuilding();
+            return new OldBuilding();
         }
 
         public override Tunnel CreateTunnel()
         {
-            return new ModernTunnel();
+            return new OldTunnel();
         }
 
         public override Jungle CreateJungle()
         {
-            return new ModernJungle();
+            return new OldJungle();
         }
     }
     #endregion
