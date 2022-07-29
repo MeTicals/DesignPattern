@@ -5,7 +5,6 @@ namespace Creational_Singleton
     {
         public static void Main(string[] args)
         {
-            
         }
     }
 
