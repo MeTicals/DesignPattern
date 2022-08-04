@@ -1,0 +1,7 @@
+F:\Visual Studio Solution\Design_Pattern\Factory_Cofe_Before\bin\Debug\Factory_Cofe_Before.exe
+F:\Visual Studio Solution\Design_Pattern\Factory_Cofe_Before\bin\Debug\Factory_Cofe_Before.pdb
+F:\Visual Studio Solution\Design_Pattern\Factory_Cofe_Before\obj\Debug\Factory_Cofe_Before.csproj.AssemblyReference.cache
+F:\Visual Studio Solution\Design_Pattern\Factory_Cofe_Before\obj\Debug\Factory_Cofe_Before.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Solution\Design_Pattern\Factory_Cofe_Before\obj\Debug\Factory_Cofe_Before.csproj.CoreCompileInputs.cache
+F:\Visual Studio Solution\Design_Pattern\Factory_Cofe_Before\obj\Debug\Factory_Cofe_Before.exe
+F:\Visual Studio Solution\Design_Pattern\Factory_Cofe_Before\obj\Debug\Factory_Cofe_Before.pdb

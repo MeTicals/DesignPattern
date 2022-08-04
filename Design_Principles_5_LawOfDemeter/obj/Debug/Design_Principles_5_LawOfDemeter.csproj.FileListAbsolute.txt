@@ -1,0 +1,7 @@
+F:\Visual Studio Solution\Design_Pattern\Design_Principles_5_LawOfDemeter\bin\Debug\Design_Principles_5_LawOfDemeter.exe
+F:\Visual Studio Solution\Design_Pattern\Design_Principles_5_LawOfDemeter\bin\Debug\Design_Principles_5_LawOfDemeter.pdb
+F:\Visual Studio Solution\Design_Pattern\Design_Principles_5_LawOfDemeter\obj\Debug\Design_Principles_5_LawOfDemeter.csproj.AssemblyReference.cache
+F:\Visual Studio Solution\Design_Pattern\Design_Principles_5_LawOfDemeter\obj\Debug\Design_Principles_5_LawOfDemeter.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Solution\Design_Pattern\Design_Principles_5_LawOfDemeter\obj\Debug\Design_Principles_5_LawOfDemeter.csproj.CoreCompileInputs.cache
+F:\Visual Studio Solution\Design_Pattern\Design_Principles_5_LawOfDemeter\obj\Debug\Design_Principles_5_LawOfDemeter.exe
+F:\Visual Studio Solution\Design_Pattern\Design_Principles_5_LawOfDemeter\obj\Debug\Design_Principles_5_LawOfDemeter.pdb
