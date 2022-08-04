@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{A5CBB221-CDFB-4957-A3ED-5CBB8D744C78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{0BA38149-3BEA-469E-84BF-F08BDEE5AD16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_AbstractFactory", "Factory_AbstractFactory\Factory_AbstractFactory.csproj", "{0BA38149-3BEA-469E-84BF-F08BDEE5AD16}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design_Principles_1_OpenClose", "Design_Principles_1_OpenClose\Design_Principles_1_OpenClose.csproj", "{62F3C330-57C6-471D-8B3E-93158D4E2257}"
 EndProject
@@ -25,6 +25,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_2SimpleFactory", "Factory_Cofe_2SimpleFactory\Factory_Cofe_2SimpleFactory.csproj", "{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_3FactoryMethod", "Factory_Cofe_3FactoryMethod\Factory_Cofe_3FactoryMethod.csproj", "{590297B2-EBB1-4E7A-99AE-0CAF38550747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_4AbstractFacttory", "Factory_Cofe_4AbstractFacttory\Factory_Cofe_4AbstractFacttory.csproj", "{107D625A-D8DE-4CEB-9196-86B134B4AB83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -76,6 +78,10 @@ Global
 		{590297B2-EBB1-4E7A-99AE-0CAF38550747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590297B2-EBB1-4E7A-99AE-0CAF38550747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590297B2-EBB1-4E7A-99AE-0CAF38550747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107D625A-D8DE-4CEB-9196-86B134B4AB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107D625A-D8DE-4CEB-9196-86B134B4AB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107D625A-D8DE-4CEB-9196-86B134B4AB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107D625A-D8DE-4CEB-9196-86B134B4AB83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{62F3C330-57C6-471D-8B3E-93158D4E2257} = {84C7EC38-AED0-44E0-A0C8-6EFB5991B212}
@@ -89,5 +95,6 @@ Global
 		{EAF0FD34-C1D9-4968-8536-1BA21DFE36A5} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
 		{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
 		{590297B2-EBB1-4E7A-99AE-0CAF38550747} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
+		{107D625A-D8DE-4CEB-9196-86B134B4AB83} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
 	EndGlobalSection
 EndGlobal

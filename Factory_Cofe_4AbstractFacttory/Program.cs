@@ -13,19 +13,18 @@
 // 这样以后如果需要新的摩卡咖啡类，只需要新建一个具体的摩卡咖啡工厂类，之后在咖啡商店类设置工厂即可，原先类的代码都不需要进行修改
 // 工厂方法的问题：如果有100种咖啡，然后又有100种蛋糕，100种盘子....意味着有300个具体的工厂，可能会导致类的爆炸
 
-namespace Factory_Cofe_FactoryMethod
+// 抽象工厂方法的方案：如果这些咖啡、蛋糕之间有一定的关系，比如风格的关系，也就是他是在产品的系列上进行扩展，而非产品的种类上进行扩展
+// 可以考虑把这些同风格的产品都放进一个工厂内，也就是抽象工厂拥有制造蛋糕和咖啡的抽象方法
+// 具体工厂A可以生产美式咖啡、美式甜品，B可以生产英式咖啡、英式甜品
+// 重点在于它的生产结构没有发生变化，都是咖啡+甜品的结构，只是系列发生了扩展
+// 缺点：如果结构发生了扩展，所有工厂都需要发生扩展
+// 实际上也不能称之为缺点，只是抽象工厂的特点是用于解决系列扩展的问题
+namespace Factory_Cofe_AbstractFacttory
 {
     internal class Program
     {
         public static void Main(string[] args)
         {
-            CoffeeStore store = new CoffeeStore();
-
-            ICoffeeFactory factory = new AmericanCoffeeFactory();
-
-            store.SetFactory(factory);
-            
-            store.OrderCoffee();
         }
     }
 }

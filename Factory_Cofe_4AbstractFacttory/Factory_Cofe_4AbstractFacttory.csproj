@@ -4,11 +4,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{0BA38149-3BEA-469E-84BF-F08BDEE5AD16}</ProjectGuid>
+        <ProjectGuid>{107D625A-D8DE-4CEB-9196-86B134B4AB83}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Creational_AbstractFactory</RootNamespace>
-        <AssemblyName>AbstractFactory</AssemblyName>
+        <RootNamespace>Factory_Cofe_4AbstractFacttory</RootNamespace>
+        <AssemblyName>Factory_Cofe_4AbstractFacttory</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -39,10 +39,16 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="FacilityFactory.cs" />
-        <Compile Include="GameManager.cs" />
-        <Compile Include="ModernFactory.cs" />
-        <Compile Include="OldFactory.cs" />
+        <Compile Include="AmericanCoffee.cs" />
+        <Compile Include="AmericanFactory.cs" />
+        <Compile Include="AmericanDessert.cs" />
+        <Compile Include="Coffee.cs" />
+        <Compile Include="CoffeeStore.cs" />
+        <Compile Include="IAbstractFactory.cs" />
+        <Compile Include="IDessert.cs" />
+        <Compile Include="LatterCoffee.cs" />
+        <Compile Include="LatterFactory.cs" />
+        <Compile Include="LatterDessert.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

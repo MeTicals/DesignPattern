@@ -12,6 +12,7 @@
     <projectFile>Factory_Cofe_Before/Factory_Cofe_Before.csproj</projectFile>
     <projectFile>Factory_Cofe_SimpleFactory/Factory_Cofe_SimpleFactory.csproj</projectFile>
     <projectFile>Factory_Cofe_3FactoryMethod/Factory_Cofe_3FactoryMethod.csproj</projectFile>
+    <projectFile>Factory_Cofe_4AbstractFacttory/Factory_Cofe_4AbstractFacttory.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d4c0c5c-28f9-4d9f-8e6c-8efc9b0bd63a" name="Changes" comment="" />
@@ -21,9 +22,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AbstractFactory/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/69/766a1a31/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Builder/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Design_Principles_2_Liskov_Substitution/不符合里氏代换原则的例子/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory_AbstractFactory/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Factory_Cofe_2SimpleFactory/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Factory_Cofe_2SimpleFactory/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Singleton/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -54,7 +56,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AbstractFactory/AbstractFactory.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Factory_AbstractFactory/Factory_AbstractFactory.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -226,6 +228,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Factory_Cofe_4AbstractFacttory" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Factory_Cofe_4AbstractFacttory/Factory_Cofe_4AbstractFacttory.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Factory_Cofe_Before" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -270,7 +290,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AbstractFactory/AbstractFactory.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Factory_AbstractFactory/Factory_AbstractFactory.csproj" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <option name="CLASS_NAME" value="Creational_AbstractFactory.Program" />
       <option name="METHOD_NAME" value="Main" />
@@ -286,7 +306,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AbstractFactory/AbstractFactory.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Factory_AbstractFactory/Factory_AbstractFactory.csproj" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <option name="CLASS_NAME" value="Creational_AbstractFactory.Program" />
       <option name="METHOD_NAME" value="Main2" />
@@ -337,6 +357,7 @@
       <workItem from="1659584193553" duration="217000" />
       <workItem from="1659584699398" duration="805000" />
       <workItem from="1659586354342" duration="1868000" />
+      <workItem from="1659593392204" duration="7560000" />
     </task>
     <servers />
   </component>
