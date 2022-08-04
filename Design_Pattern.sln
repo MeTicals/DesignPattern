@@ -20,9 +20,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design_Principles", "Design
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{B5998A33-F31C-4588-9CDC-22B87489D24E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_Before", "Factory_Cofe_Before\Factory_Cofe_Before.csproj", "{EAF0FD34-C1D9-4968-8536-1BA21DFE36A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_1Before", "Factory_Cofe_1Before\Factory_Cofe_1Before.csproj", "{EAF0FD34-C1D9-4968-8536-1BA21DFE36A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_SimpleFactory", "Factory_Cofe_SimpleFactory\Factory_Cofe_SimpleFactory.csproj", "{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_2SimpleFactory", "Factory_Cofe_2SimpleFactory\Factory_Cofe_2SimpleFactory.csproj", "{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Cofe_3FactoryMethod", "Factory_Cofe_3FactoryMethod\Factory_Cofe_3FactoryMethod.csproj", "{590297B2-EBB1-4E7A-99AE-0CAF38550747}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -70,6 +72,10 @@ Global
 		{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590297B2-EBB1-4E7A-99AE-0CAF38550747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590297B2-EBB1-4E7A-99AE-0CAF38550747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590297B2-EBB1-4E7A-99AE-0CAF38550747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590297B2-EBB1-4E7A-99AE-0CAF38550747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{62F3C330-57C6-471D-8B3E-93158D4E2257} = {84C7EC38-AED0-44E0-A0C8-6EFB5991B212}
@@ -82,5 +88,6 @@ Global
 		{14227F1A-223B-4761-9427-7DCDD98EA852} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
 		{EAF0FD34-C1D9-4968-8536-1BA21DFE36A5} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
 		{6FCDADFE-56D3-4F3D-A729-B9BE845F45A9} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
+		{590297B2-EBB1-4E7A-99AE-0CAF38550747} = {B5998A33-F31C-4588-9CDC-22B87489D24E}
 	EndGlobalSection
 EndGlobal

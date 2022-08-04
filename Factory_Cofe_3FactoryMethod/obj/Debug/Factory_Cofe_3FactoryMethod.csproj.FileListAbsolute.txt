@@ -1,0 +1,7 @@
+F:\Visual Studio Solution\DesignPattern\Factory_Cofe_3FactoryMethod\bin\Debug\Factory_Cofe_3FactoryMethod.exe
+F:\Visual Studio Solution\DesignPattern\Factory_Cofe_3FactoryMethod\bin\Debug\Factory_Cofe_3FactoryMethod.pdb
+F:\Visual Studio Solution\DesignPattern\Factory_Cofe_3FactoryMethod\obj\Debug\Factory_Cofe_3FactoryMethod.csproj.AssemblyReference.cache
+F:\Visual Studio Solution\DesignPattern\Factory_Cofe_3FactoryMethod\obj\Debug\Factory_Cofe_3FactoryMethod.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Solution\DesignPattern\Factory_Cofe_3FactoryMethod\obj\Debug\Factory_Cofe_3FactoryMethod.csproj.CoreCompileInputs.cache
+F:\Visual Studio Solution\DesignPattern\Factory_Cofe_3FactoryMethod\obj\Debug\Factory_Cofe_3FactoryMethod.exe
+F:\Visual Studio Solution\DesignPattern\Factory_Cofe_3FactoryMethod\obj\Debug\Factory_Cofe_3FactoryMethod.pdb
